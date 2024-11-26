@@ -6,5 +6,6 @@ public class Multiplicacion {
 
     public static void main(String[] args) {
         System.out.println(multiplica(5, 6));
+        // Test
     }
 }

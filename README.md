@@ -9,7 +9,7 @@ Para que funcione hay que seguir estos pocos pasos
 3. Una vez ejecutado se traducira el codigo a un archivo de java en este caso esta ligado a la forma en la que esta escrito el PytoJava.txt
 4. El archivo por defecto tiene un nombre en que se guardara en este caso es Multiplicacion.java
 
-Autor: Rusell Emmanuel Canche Ciau
-Numero de Control: 21390320
-Fecha: 26/11/2024
+Autor: Rusell Emmanuel Canche Ciau  
+Numero de Control: 21390320  
+Fecha: 26/11/2024  
 I7A
